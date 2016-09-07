@@ -1,11 +1,11 @@
-## A brief memo of current IoT Security System
+## A Brief Memo of Current IoT Security System
 From: Zhihao Xue
 To: Dr. Jianjian Song
 
 #### What products did I look at?
 * [Yi Camera](http://www.mi.com/xiaoyi/param/)
 * [360 Camera](http://jia.mall.360.com/product.html)
-* [scout](https://www.scoutalarm.com/how-it-works)
+* [Scout](https://www.scoutalarm.com/how-it-works)
 * [Canary](https://canary.is/specs/)
 * [Cocoon](https://cocoon.life/how_us/)
 * [August](http://august.com/how-it-works/)
