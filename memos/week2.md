@@ -15,10 +15,11 @@ Date: Sept 14, 2016
 
 #### Specific accomplishments for this week
 * Complete a initial version of system block diagram
-* Set up minimum requirements for test system
+* Set up [minimum requirements](https://github.com/xHa0z/IoTHomeSecuritySystem/blob/master/doc/minimun_test.md) for test system
 * Set up Intel Edison board
 * Tried to run Ardunio sample on Edison, FAILED (See comments)
 * Tried to establish SSH communication, succeeded once at home very beginning, but failed afterwards.
+* Updated [Project expense list](https://github.com/xHa0z/IoTHomeSecuritySystem/blob/master/doc/project_expense.md)
 
 #### Specific goals for next week
 * Tried to fix Arduino compiler error
